@@ -1,2 +1,11 @@
+---
 hello-word:
-  "Hello world!"
+  "Hello world from default profile!"
+---
+spring.profiles: "prod"
+hello-word:
+  "Hello world from prod!"
+---
+spring.profiles: "dev"
+hello-word:
+  "Hello world from dev!"
