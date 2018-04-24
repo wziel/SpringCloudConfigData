@@ -1,8 +1,2 @@
----
-spring.profiles: "prod"
-hello-word: "Hello world from prod!"
----
-spring.profiles: "dev"
-hello-word: "Hello world from dev!"
----
-hello-word: "Hello world from default profile!"
+hello-word: "Hello world!"
+preamble: "The hello word is: "
