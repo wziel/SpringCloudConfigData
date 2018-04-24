@@ -1,2 +1,2 @@
-hello-word: "Hello world!"
+hello-word: "Dynamic change in spring cloud config!"
 preamble: "The hello word is: "
